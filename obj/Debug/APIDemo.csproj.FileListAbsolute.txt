@@ -93,3 +93,5 @@ C:\Users\Obaro\Source\Repos\APIDemo\APIDemo\obj\Debug\APIDemo.dll
 C:\Users\Obaro\Source\Repos\APIDemo\APIDemo\obj\Debug\APIDemo.pdb
 C:\Users\Obaro\Source\Repos\APIDemo\APIDemo\obj\Debug\APIDemo.Migrations.Initial.resources
 C:\Users\Obaro\Source\Repos\APIDemo\APIDemo\obj\Debug\APIDemo.csproj.GenerateResource.cache
+C:\Users\Obaro\Source\Repos\APIDemo\APIDemo\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\Obaro\Source\Repos\APIDemo\APIDemo\bin\WebApiContrib.Formatting.Jsonp.pdb
